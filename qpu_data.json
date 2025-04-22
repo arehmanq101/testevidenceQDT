@@ -1,0 +1,26 @@
+[
+    {
+        "id": "OneQubitGateErrorRate",
+        "value": 9.999999999998899e-05,
+        "type": "float",
+        "timestamp": "2025-03-31 19:52:30"
+    },
+    {
+        "id": "TwoQubitGateErrorRate",
+        "value": 0.00019998999999992773,
+        "type": "float",
+        "timestamp": "2025-03-31 19:52:30"
+    },
+    {
+        "id": "SPAMErrorRate",
+        "value": 9.999999999998899e-05,
+        "type": "float",
+        "timestamp": "2025-03-31 19:52:30"
+    },
+    {
+        "id": "ErrorCorrectionEnabled",
+        "value": false,
+        "type": "bool",
+        "timestamp": "2025-03-31 19:52:30"
+    }
+]
